@@ -1,0 +1,17 @@
+{
+  "name": "employeemanage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeeManager-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.0.1",
+    "request": "^2.73.0",
+    "restify": "^4.1.1",
+    "vow": "^0.4.12"
+  }
+}
